@@ -1,5 +1,5 @@
 ## Welcome to Stafford Cloud
 <br>
-#Email: contact(at)staffordcloud.com
+Email: contact-us(at)staffordcloud.com
 <br>
-#Phone: (seven zero eight) two one five - 4200
+Phone: (seven zero eight) two one five - 4200
