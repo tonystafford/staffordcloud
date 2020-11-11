@@ -5,5 +5,5 @@ Email: contact-us (at) staffordcloud.com
 Phone: (seven zero eight) two one five - 4200
 <br><br><br>
 
-##Flag of New Staffordshire
+## Flag of New Staffordshire
 ![New Staffordshire Flag](/files/flag.svg)
