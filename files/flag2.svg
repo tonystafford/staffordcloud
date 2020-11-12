@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,8 +12,8 @@
    viewBox="0 0 793.74998 529.16666"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="2019-0715 - Flag.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="2019-0715 - FlagBorderless.svg"
    inkscape:export-filename="K:\1.0 Tony Vault\New Staffordshire\Flag\Flag-New.png"
    inkscape:export-xdpi="95.994354"
    inkscape:export-ydpi="95.994354">
@@ -130,7 +128,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
      inkscape:cx="953.46333"
-     inkscape:cy="976.32859"
+     inkscape:cy="404.90002"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -143,10 +141,11 @@
      inkscape:snap-page="true"
      inkscape:snap-center="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -155,7 +154,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -165,7 +164,7 @@
      id="layer1"
      transform="translate(0,232.16664)">
     <rect
-       style="fill:#d4aa00;fill-opacity:1;stroke-width:0.75;stroke:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:1"
+       style="fill:#d4aa00;fill-opacity:1;stroke-width:0.75;stroke:none;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:1"
        id="rect815"
        width="793.25598"
        height="529.19366"
@@ -175,17 +174,17 @@
     <g
        id="g4921"
        transform="matrix(0.83333332,0,0,0.94086019,38.996401,16.519982)"
-       style="opacity:1;fill:#000080;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="opacity:1;fill:#000080;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <rect
          y="-263.91663"
          x="140.60715"
          height="562.42859"
          width="190.5"
          id="rect4905"
-         style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <path
-       style="fill:#aa0000;fill-opacity:1;stroke-width:0;stroke:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:1"
+       style="fill:#aa0000;fill-opacity:1;stroke-width:0;stroke:none;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:1"
        d="M 6.4127803,1641.2037 6.773435,1280.5793 451.89006,841.2735 897.00667,401.96775 1074.7935,578.9179 c 97.7828,97.32258 459.5838,457.2912 804.0024,799.9302 l 626.2155,622.9801 H 2087.5186 1670.0257 L 1281.7774,1615.856 c -213.5365,-212.2846 -389.45578,-385.4753 -390.93165,-384.8681 -1.47587,0.6073 -177.85926,174.2947 -391.96311,385.9722 l -389.2797,384.8681 H 57.82753 6.0521251 Z"
        id="path4871"
        inkscape:connector-curvature="0"
@@ -196,9 +195,9 @@
        clip-path="url(#clipPath836)"
        inkscape:connector-curvature="0"
        transform="matrix(1.8935133,0,0,1.8935133,-471.54464,-519.57968)"
-       style="fill:#aa0000;stroke:#000000;stroke-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;opacity:1" />
+       style="fill:#aa0000;stroke:none;stroke-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;opacity:1" />
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6793"
        width="792.72375"
        height="528.60828"
